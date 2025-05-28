@@ -1,0 +1,91 @@
+Here are 160 JavaScript coding round questions, ranging from basic to advanced, to help you prepare for your next interview:
+
+Basic (40 questions)
+1. Find the maximum number in an array.
+2. Reverse a string.
+3. Check if a number is prime.
+
+---completed----
+
+4. Calculate the factorial of a number.
+5. Find the sum of all elements in an array.
+6. Remove duplicates from an array.
+7. Check if a string is a palindrome.
+8. Find the average of an array of numbers.
+9. Convert a string to title case.
+10. Find the maximum value in a 2D array.
+11. Check if a number is even or odd.
+12. Calculate the area of a rectangle.
+13. Find the minimum value in an array.
+14. Check if a string contains a specific substring.
+15. Reverse an array.
+16. Find the sum of all even numbers in an array.
+17. Calculate the circumference of a circle.
+18. Check if a number is a perfect square.
+19. Find the maximum length of a string in an array.
+20. Remove falsy values from an array.
+21. Check if two strings are anagrams.
+22. Find the index of a specific element in an array.
+23. Calculate the sum of all digits in a number.
+24. Check if a number is a power of 2.
+25. Find the longest common prefix in an array of strings.
+26. Check if a string is a valid email address.
+27. Calculate the difference between two dates.
+28. Find the maximum value in an object.
+29. Check if a number is within a specific range.
+30. Remove whitespace from a string.
+31. Find the sum of all numbers in a nested array.
+32. Check if a string contains only digits.
+33. Calculate the product of all numbers in an array.
+34. Find the maximum value in a sparse array.
+35. Check if two arrays are equal.
+36. Find the intersection of two arrays.
+37. Calculate the union of two arrays.
+38. Check if a string is a valid URL.
+39. Find the difference between two arrays.
+40. Calculate the sum of all numbers in a string.
+
+Intermediate (60 questions)
+41. Implement a debounce function.
+42. Create a function to flatten a nested array.
+43. Write a function to check if a number is a palindrome.
+44. Implement a throttle function.
+45. Create a function to find the maximum value in a binary search tree.
+46. Write a function to check if a string is a valid JSON.
+47. Implement a function to find the closest pair of numbers in an array.
+48. Create a function to generate a random number within a specific range.
+49. Write a function to check if a number is a Fibonacci number.
+50. Implement a function to find the maximum sum of a subarray.
+51. Create a function to validate a credit card number.
+52. Write a function to check if a string is a valid IPv4 address.
+53. Implement a function to find the minimum window substring.
+54. Create a function to generate a UUID.
+55. Write a function to check if a number is a power of 3.
+56. Implement a function to find the longest increasing subsequence.
+57. Create a function to validate a password.
+58. Write a function to check if a string is a valid IPv6 address.
+59. Implement a function to find the maximum product of a subarray.
+60. Create a function to generate a random color.
+61. Write a function to check if a number is a perfect number.
+62. Implement a function to find the minimum number of coins.
+63. Create a function to validate a phone number.
+64. Write a function to check if a string is a valid date.
+65. Implement a function to find the maximum sum of a subarray with a specific length.
+66. Create a function to generate a random string.
+67. Write a function to check if a number is a narcissistic number.
+68. Implement a function to find the longest common subsequence.
+69. Create a function to validate a username.
+70. Write a function to check if a string is a valid time.
+71. Implement a function to find the maximum value in a matrix.
+72. Create a function to generate a random permutation.
+73. Write a function to check if a number is a abundant number.
+74. Implement a function to find the minimum number of operations.
+75. Create a function to validate a email address with specific domain.
+76. Write a function to check if a string is a valid hexadecimal color code.
+77. Implement a function to find the maximum sum of a subarray with a specific step.
+78. Create a function to generate a random IP address.
+79. Write a function to check if a number is a Keith number.
+80. Implement a function to find the longest palindromic substring.
+81. Create a function to validate a password with specific requirements.
+82. Write a function to check if a string is a valid MAC address.
+Generate the pdf of this
