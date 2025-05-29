@@ -4,11 +4,11 @@ Basic (40 questions)
 1. Find the maximum number in an array.
 2. Reverse a string.
 3. Check if a number is prime.
-
----completed----
-
 4. Calculate the factorial of a number.
 5. Find the sum of all elements in an array.
+
+<---------------------completed--------------------------->
+
 6. Remove duplicates from an array.
 7. Check if a string is a palindrome.
 8. Find the average of an array of numbers.
