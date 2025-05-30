@@ -1,0 +1,2 @@
+6. Remove duplicates from an array.
+7. Check if a string is a palindrome.

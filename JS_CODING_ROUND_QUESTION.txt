@@ -6,11 +6,11 @@ Basic (40 questions)
 3. Check if a number is prime.
 4. Calculate the factorial of a number.
 5. Find the sum of all elements in an array.
+6. Remove duplicates from an array.
+7. Check if a string is a palindrome.
 
 <---------------------completed--------------------------->
 
-6. Remove duplicates from an array.
-7. Check if a string is a palindrome.
 8. Find the average of an array of numbers.
 9. Convert a string to title case.
 10. Find the maximum value in a 2D array.
