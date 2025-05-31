@@ -8,13 +8,13 @@ Basic (40 questions)
 5. Find the sum of all elements in an array.
 6. Remove duplicates from an array.
 7. Check if a string is a palindrome.
+8. Check if a number is even or odd.
+9. Find the average of an array of numbers.
 
 <---------------------completed--------------------------->
 
-8. Find the average of an array of numbers.
-9. Convert a string to title case.
-10. Find the maximum value in a 2D array.
-11. Check if a number is even or odd.
+10. Convert a string to title case.
+11. Find the maximum value in a 2D array.
 12. Calculate the area of a rectangle.
 13. Find the minimum value in an array.
 14. Check if a string contains a specific substring.
