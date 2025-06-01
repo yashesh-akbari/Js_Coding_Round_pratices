@@ -10,12 +10,11 @@ Basic (40 questions)
 7. Check if a string is a palindrome.
 8. Check if a number is even or odd.
 9. Find the average of an array of numbers.
-
-<---------------------completed--------------------------->
-
 10. Convert a string to title case.
 11. Find the maximum value in a 2D array.
 12. Calculate the area of a rectangle.
+
+<---------------------completed--------------------------->
 13. Find the minimum value in an array.
 14. Check if a string contains a specific substring.
 15. Reverse an array.

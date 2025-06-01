@@ -1,0 +1,3 @@
+10. Convert a string to title case.
+11. Find the maximum value in a 2D array.
+12. Calculate the area of a rectangle.
