@@ -1,0 +1,2 @@
+13. Find the minimum value in an array.
+14. Reverse an array.
