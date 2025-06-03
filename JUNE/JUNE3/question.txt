@@ -1,0 +1,2 @@
+15. Check if a string contains a specific substring.
+16. Find the sum of all even numbers in an array.
