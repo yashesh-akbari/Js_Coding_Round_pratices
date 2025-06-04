@@ -17,11 +17,11 @@ Basic (40 questions)
 14. Reverse an array.
 15. Check if a string contains a specific substring.
 16. Find the sum of all even numbers in an array.
+17. Calculate the circumference of a circle.
+18. Check if a number is a perfect square.
 
 <---------------------completed--------------------------->
 
-17. Calculate the circumference of a circle.
-18. Check if a number is a perfect square.
 19. Find the maximum length of a string in an array.
 20. Remove falsy values from an array.
 21. Check if two strings are anagrams.

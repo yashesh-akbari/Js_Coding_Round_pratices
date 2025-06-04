@@ -1,0 +1,2 @@
+17. Calculate the circumference of a circle.
+18. Check if a number is a perfect square.
