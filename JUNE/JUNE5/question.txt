@@ -1,0 +1,2 @@
+19. Find the maximum length of a string in an array.
+20. Remove falsy values from an array.
