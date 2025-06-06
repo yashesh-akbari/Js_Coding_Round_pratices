@@ -19,13 +19,14 @@ Basic (40 questions)
 16. Find the sum of all even numbers in an array.
 17. Calculate the circumference of a circle.
 18. Check if a number is a perfect square.
-
-<---------------------completed--------------------------->
-
 19. Find the maximum length of a string in an array.
 20. Remove falsy values from an array.
 21. Check if two strings are anagrams.
+study = dusty
 22. Find the index of a specific element in an array.
+
+<---------------------completed--------------------------->
+
 23. Calculate the sum of all digits in a number.
 24. Check if a number is a power of 2.
 25. Find the longest common prefix in an array of strings.
