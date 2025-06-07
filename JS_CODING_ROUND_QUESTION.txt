@@ -24,10 +24,10 @@ Basic (40 questions)
 21. Check if two strings are anagrams.
 study = dusty
 22. Find the index of a specific element in an array.
+23. Calculate the sum of all digits in a number.
 
 <---------------------completed--------------------------->
 
-23. Calculate the sum of all digits in a number.
 24. Check if a number is a power of 2.
 25. Find the longest common prefix in an array of strings.
 26. Check if a string is a valid email address.
