@@ -25,10 +25,10 @@ Basic (40 questions)
 study = dusty
 22. Find the index of a specific element in an array.
 23. Calculate the sum of all digits in a number.
+24. Check if a number is a power of 2.
 
 <---------------------completed--------------------------->
 
-24. Check if a number is a power of 2.
 25. Find the longest common prefix in an array of strings.
 26. Check if a string is a valid email address.
 27. Calculate the difference between two dates.
@@ -89,4 +89,3 @@ Intermediate (60 questions)
 80. Implement a function to find the longest palindromic substring.
 81. Create a function to validate a password with specific requirements.
 82. Write a function to check if a string is a valid MAC address.
-Generate the pdf of this
