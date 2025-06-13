@@ -33,11 +33,10 @@ study = dusty
 25. Find the longest common prefix in an array of strings.
 26. Check if a string is a valid email address.
 27. Calculate the difference between two dates.
+28. Find the maximum value in an object.
 
 <---------------------completed--------------------------->
 
-
-28. Find the maximum value in an object.
 29. Check if a number is within a specific range.
 30. Remove whitespace from a string.
 31. Find the sum of all numbers in a nested array.
