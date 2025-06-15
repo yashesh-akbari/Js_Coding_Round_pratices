@@ -35,10 +35,11 @@ study = dusty
 27. Calculate the difference between two dates.
 28. Find the maximum value in an object.
 29. Check if a number is within a specific range.
+30. Remove whitespace from a string.
 
 <---------------------completed--------------------------->
 
-30. Remove whitespace from a string.
+
 31. Find the sum of all numbers in a nested array.
 32. Check if a string contains only digits.
 33. Calculate the product of all numbers in an array.
