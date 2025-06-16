@@ -36,11 +36,10 @@ study = dusty
 28. Find the maximum value in an object.
 29. Check if a number is within a specific range.
 30. Remove whitespace from a string.
+31. Find the sum of all numbers in a nested array.
 
 <---------------------completed--------------------------->
 
-
-31. Find the sum of all numbers in a nested array.
 32. Check if a string contains only digits.
 33. Calculate the product of all numbers in an array.
 34. Find the maximum value in a sparse array.
