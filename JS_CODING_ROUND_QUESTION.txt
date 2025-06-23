@@ -44,12 +44,10 @@ study = dusty
 36. Find the intersection of two arrays.
 37. Calculate the union of two arrays.
 38. Check if a string is a valid URL.
-
-<---------------------completed--------------------------->
-
-
 39. Find the difference between two arrays.
 40. Calculate the sum of all numbers in a string.
+
+<---------------------completed--------------------------->
 
 Intermediate (60 questions)
 41. Implement a debounce function.
